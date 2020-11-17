@@ -7,6 +7,7 @@
 
 A straightforward script to read already compiled Meteor Echoes hourly data from a `.xlsx` file and then automatically create and save a comprehensive infographic based on the user selected month.
 
+
 ![Example output](October_2020_Meteor_Count.png)
 
 Required software and packages:
