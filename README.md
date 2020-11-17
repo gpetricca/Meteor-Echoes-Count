@@ -36,7 +36,7 @@ Regarding the `.xlsx` file, please substitute the `XXXX` part of the name with t
 The process and file are commented throughout the various steps, however, this is a brief guide on how to use them: 
 
 1. Open the `.xlsx` file and add the Meteor Echoes Hourly data in each cell. The columns are the days of the month, and the rows are the time of the day. Time is always UTC.
-2. If there is a `hourly count = 0`, then you can leave it, it will not create problems. However, leave any cells that have still to be filled (i.e. because they are future hours/days) empty, so that the script will color them in a different tone.
+2. If there is a `hourly count = 0`, then you can leave it, it will not create problems. However, leave any cells that have still to be filled (i.e. because they are future hours/days) empty, so that the script will color them differently.
 3. Once done, save the `.xlsx` file and open the `Meteors.ipynb` file.
 4. On `line 15` change the local address of the `.xlsx` file to match the location in which it is on your computer (if the two are not in the same folder).
 5. Execute the script, and when prompted, insert a number for the desired month to be displayed.
