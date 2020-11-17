@@ -1,4 +1,4 @@
-# Meteor Echoes Count
+# Meteor Echoes Count Infographic
 ### Read Meteor Echoes hourly totals from a .xlsx file and produce a comprehensive display.
 
 *Coded by Giuseppe Petricca (@gmrpetricca)*
