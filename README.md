@@ -38,7 +38,7 @@ The process and file are commented throughout the various steps, however, this i
 1. Open the `.xlsx` file and add the Meteor Echoes Hourly data in each cell. The columns are the days of the month, and the rows are the time of the day. Time is always UTC.
 2. If there is a `hourly count = 0`, then you can leave it, it will not create problems. However, leave any cells that have still to be filled (i.e. because they are future hours/days) empty, so that the script will color them differently.
 3. Once done, save the `.xlsx` file and open the `Meteors.ipynb` file.
-4. On `line 15` change the local address of the `.xlsx` file to match the location in which it is on your computer (if the two are not in the same folder).
+4. On `line 15` change the local address of the `.xlsx` file to match the name and the location in which it is on your computer. (if they are in the same folder, then only the name will have to be changed)
 5. Execute the script, and when prompted, insert a number for the desired month to be displayed.
 6. At the end of the process an image will be created in the same folder of the `.xlsx` and the `.ipynb` file.
 
