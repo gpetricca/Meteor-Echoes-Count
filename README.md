@@ -22,11 +22,13 @@ Required software and packages:
 Installation via Anaconda:
 ```bash
 # install the environment with the correct software:
-conda create -n meteorechoes python=3 jupyter matplotlib numpy pandas pillow datetime
+conda create -n meteorechoes python=3 jupyter jupyterlab matplotlib numpy pandas pillow
 # activate the environment
 conda activate meteorechoes
-# start Jupyter Notebook
-jupyter-notebook
+# navigate to the folder where you have the Python code via command prompt
+cd -local address of the Python folder-
+# start Jupyter Lab
+jupyter lab
 ```
 
 Once this is done, it is possible to open the `.ipynb` file in the repository. Microsoft Excel is required to open the `.xlsx` file, please keep the two in the same folder.
@@ -47,3 +49,6 @@ Done!
 Extra: if you have one, you can add your personal logo high on the right (in place of the `Hebridean Weather` one) by putting it in the `img` folder and modifying its address on `lines 198-199` of the the `.ipynb` file.
 
 Note: the script will not print empty months. There has to be at least a single value for the program to use.
+
+-- Troubleshooting: 
+If required, the ```datetime``` package can be installed from within the environment with ```pip install DateTime```.
