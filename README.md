@@ -1,11 +1,11 @@
 # Meteor Echoes Count Infographic
-### Read Meteor Echoes hourly totals from a .xlsx file and produce two comprehensive monthly infographics.
+### Read Meteor Echoes hourly totals from a .xlsx file and produce two monthly infographics.
 
 *Coded by Giuseppe Petricca (@gmrpetricca)*
 
 [![GitHub](https://img.shields.io/github/license/raspishake/rsudp)](https://github.com/raspishake/rsudp/blob/master/LICENSE)
 
-A straightforward script to read already compiled Meteor Echoes hourly data from a `.xlsx` file and then automatically create and save a comprehensive infographic based on the user selected month.
+A straightforward script to read already compiled Meteor Echoes hourly data from a `.xlsx` file and then automatically create and save two comprehensive charts (grid and bars) based on the user selected month.
 
 
 ![Example output](GridChart_October_2020_Meteor_Count.png)
