@@ -45,7 +45,7 @@ The process and file are commented throughout the various steps, however, this i
 4. On `lines 17-18` it is possible to add some details of the rx station, which will be written in the title and subtitle of the two plots
 5. On `line 24` change the local address of the `.xlsx` file to match the name and the location in which it is on your computer. (if they are in the same folder, then only the name will have to be changed)
 6. Execute the script, and when prompted, insert a number for the desired month to be displayed.
-7. At the end of the process an image will be created in the same folder of the `.xlsx` and the `.ipynb` file.
+7. At the end of the process two images will be created in the same folder of the `.xlsx` and the `.ipynb` file.
 
 Done!
 
