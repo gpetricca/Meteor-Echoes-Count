@@ -49,7 +49,7 @@ The process and file are commented throughout the various steps, however, this i
 
 Done!
 
-Extra: if you have one, you can add your personal logo high on the right (in place of the `Hebridean Weather` one) by putting it in the `img` folder and modifying its address on `lines 243-244` and `lines 333-334` of the the `.ipynb` file.
+Extra: if you have one, you can add your personal logo high on the right (in place of the `Hebridean Weather` one) by putting it in the `img` folder and modifying its address on `lines 237-238` and `lines 327-328` of the the `.ipynb` file.
 
 Extra 2: If, for the bar charts, the maximum value is too low, it is possible to modify it on `line 21` of the the `.ipynb` file.
 
